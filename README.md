@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... if I'm  in love with pandas (YES! YES!)
 - 📫 How to reach me: ... divyashettyk@gmail.com
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I love beign goofy with my son and when I'm free, browsing Kaggle (Trust me! I spend most of my time checking 
--                   out data sets and notebooks to see interesting insights that have come up! 
+- ⚡ Fun fact: ... I love being goofy with my son and when I'm free, I'm browsing Kaggle (Trust me! I spend most of my time checking out data sets and notebooks to see interesting insights that have come up and what I can do with them.)
