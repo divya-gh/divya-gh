@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Building my Skills 
 - 🌱 I’m currently learning ... python,pandas, visualization and SQL
 - 👯 I’m looking to collaborate on ... open sourse projects in python 
