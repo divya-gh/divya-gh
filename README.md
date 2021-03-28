@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=divya-gh)
 
 - 🔭 I’m currently working on ... Building my Skills 
-- 🌱 I’m currently learning ... python,pandas, visualization and SQL, API's and web scraping
+- 🌱 I’m currently learning ... python,pandas, visualization and PostgreSQL, Mongo , API's and web scraping with BeautifulSoup.
 - 👯 I’m looking to collaborate on ... open source projects in python 
 - 🤔 I’m looking for help with ... thinking...
 - 💬 Ask me about ... python , pandas 
