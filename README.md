@@ -13,5 +13,11 @@
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I love being goofy with my son, and when I'm free, I'm browsing Kaggle (Trust me! I spend most of my time checking out data sets and notebooks to see exciting insights that have come up with and what I can do with them.)
 
+My Featured Project✈️✨
+Face Mask Detection😷
+Interactive Climate Change Dashboard🌍📊
+ETL-San Antonio Restaurant Data🍄🥦
+
+
 ![Divya's Github Stats](https://github-readme-stats.vercel.app/api?username=divya-gh&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-gh&layout=compact)](https://github.com/divya-gh)
