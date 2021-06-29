@@ -15,7 +15,7 @@
 - [Face Mask Detection😷](https://github.com/divya-gh/Face_Mask_Detection.git)
 - [Interactive Climate Change Dashboard🌍📊](https://github.com/divya-gh/Climate-Interactive-Dashboard.git)
 - [ETL-San Antonio Restaurant Data🍄🥦](https://github.com/shechter430/ETL_project.git)
-- [ML-EXOPlanet classificationa nd prediction model🗼🛸](https://github.com/divya-gh/ML-Exoplanet-Classification-and-Prediction-Model.git)
+- [ML-Exoplanet-Classification-and-Prediction-Model🗼🛸](https://github.com/divya-gh/ML-Exoplanet-Classification-and-Prediction-Model.git)
 - [Tableau-NewYork-Citi-Bike-Analysis-and-Visualization💹](https://github.com/divya-gh/Tableau-NewYork-Citi-Bike-Analysis-and-Visualization.git)
 
 
