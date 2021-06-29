@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+--
 <h2 align='center'>I'm Divya Shetty 👋</h2>
 
 <h3 align="center">git commit -m "I'm a Data Analyst/Visualizer, currently working on ML and computer vision with Tensorflow Keras modules.🔭"</h3>
