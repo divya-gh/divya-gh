@@ -1,6 +1,6 @@
 <h2> Hi there,👋 </h2>
-<h1 align='center'>I'm Divya Shetty 👋</h1>
-<h3 align="center">git commit -m "I'm a Data Analyst/Visualizer, currently working on ML and computer vision with Tensorflow Keras modules.🔭"</h3>
+<h1 align='center'>I am Divya Shetty 👋</h1>
+<h3 align="center">"I'm a AI Enthusiast, GenAI, Agentic Builder and Data Analyst/Visualizer, currently upskilling on Cloud GenAI Data Analytics and computer vision ML, LLM models.🔭"</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divya-gh)
 
