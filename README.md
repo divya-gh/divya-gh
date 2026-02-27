@@ -11,6 +11,8 @@
 - ⚡ Fun fact: ... I love being goofy with my son, and when I'm free, I'm browsing Kaggle (Trust me! I spend most of my time checking out data sets and notebooks to see exciting insights that have come up with and what I can do with them.)
 
 ### My Featured Projects ✈️
+- [Data Lakehouse Architecture](https://github.com/divya-gh/explore-bigquery-lakehouse.git)
+- [conversational AI analytics-NLP](https://github.com/divya-gh/ConvoSense-AI-Banking-Chatbot-Analytics.git)
 - [Face Mask Detection😷](https://github.com/divya-gh/Face_Mask_Detection.git)
 - [Interactive Climate Change Dashboard🌍📊](https://github.com/divya-gh/Climate-Interactive-Dashboard.git)
 - [ETL-San Antonio Restaurant Data🍄🥦](https://github.com/shechter430/ETL_project.git)
@@ -18,7 +20,7 @@
 - [Tableau-NewYork-Citi-Bike-Analysis-and-Visualization💹](https://github.com/divya-gh/Tableau-NewYork-Citi-Bike-Analysis-and-Visualization.git)
 
 
-![Divya's Github Stats](https://github-readme-stats.vercel.app/api?username=divya-gh&show_icons=true&theme=radical)
+![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divya-gh&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-gh&layout=compact&theme=radical&v=1)](https://github.com/divya-gh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-gh&layout=compact&theme=radical)
