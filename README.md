@@ -8,7 +8,6 @@
 - 👯 I'm looking to collaborate on ... open source projects in python and Javascript.
 - 💬 Ask me about ... python, pandas, web development, and visualization with HTML, CSS, BootStrap, Javascript, D3.js.
 - 📫 How to reach me: ... divyashettyk@gmail.com
-- ⚡ Fun fact: ... I love being goofy with my son, and when I'm free, I'm browsing Kaggle (Trust me! I spend most of my time checking out data sets and notebooks to see exciting insights that have come up with and what I can do with them.)
 
 ### My Featured Projects ✈️
 - [Data Lakehouse Architecture](https://github.com/divya-gh/explore-bigquery-lakehouse.git)
