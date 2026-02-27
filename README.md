@@ -20,4 +20,5 @@
 
 ![Divya's Github Stats](https://github-readme-stats.vercel.app/api?username=divya-gh&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-gh&layout=compact)](https://github.com/divya-gh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-gh&layout=compact&theme=radical&v=1)](https://github.com/divya-gh)
