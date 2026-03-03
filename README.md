@@ -22,6 +22,3 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=divya-gh&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divya-gh&layout=compact&theme=radical)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=divya-gh&theme=radical&langs=true)
