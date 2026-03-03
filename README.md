@@ -10,6 +10,7 @@
 - 📫 How to reach me: ... divyashettyk@gmail.com
 
 ### My Featured Projects ✈️
+- [genai-bigquery-lakehouse-assistant](https://github.com/divya-gh/genai-bigquery-lakehouse-assistant.git)
 - [Data Lakehouse Architecture](https://github.com/divya-gh/explore-bigquery-lakehouse.git)
 - [conversational AI analytics-NLP](https://github.com/divya-gh/ConvoSense-AI-Banking-Chatbot-Analytics.git)
 - [Face Mask Detection😷](https://github.com/divya-gh/Face_Mask_Detection.git)
