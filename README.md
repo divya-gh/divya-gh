@@ -22,6 +22,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=divya-gh&theme=radical)
 
-![GitHub Language Trophy](https://github-profile-trophy.vercel.app/?username=divya-gh&theme=radical&no-frame=true&column=7&langs=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divya-gh&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.fly.dev/api/top-langs/?username=divya-gh&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=divya-gh&theme=radical&langs=true)
