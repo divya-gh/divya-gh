@@ -1,10 +1,10 @@
 <h2> Hi there,👋 </h2>
 <h1 align='center'>I am Divya Shetty K👋</h1>
-<h3 align="center">"I'm a AI Enthusiast, GenAI, Agentic Builder and Data Analyst/Visualizer, currently upskilling on Cloud GenAI Data Analytics and computer vision ML, LLM models and agent development kits.🔭"</h3>
+<h3 align="center">"I'm a AI Enthusiast, GenAI, AgenticAI  Builder and Data Analyst/Visualizer, currently upskilling on Cloud GenAI Data Analytics and computer vision ML, LLM models and agent development kits.🔭"</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divya-gh)
 
-- 🌱 I'm experienced in ... python, pandas, API's, Web Scraping with beautilfulSoup, Selenium Splinters, PostgreSQL, SQLite, MongoDB, python SQLAlchemy, python Flask API, web development with HTML, CSS, BootStrap, JavaScript, Jquery.js, D3.js, leaflet.js, and plotly.js, Tableau, ML.
+- 🌱 I'm experienced in ... GenAI, AgenticAI, ML, Cloud Analystics, Bigquery, python, pandas, API's, Web Scraping with beautilfulSoup, Selenium Splinters, PostgreSQL, SQLite, MongoDB, python SQLAlchemy, python Flask API, web development with HTML, CSS, BootStrap, JavaScript, Jquery.js, D3.js, leaflet.js, and plotly.js, Tableau, ML.
 - 👯 I'm looking to collaborate on ... open source projects in python and Javascript.
 - 💬 Ask me about ... python, pandas, web development, and visualization with HTML, CSS, BootStrap, Javascript, D3.js.
 - 📫 How to reach me: ... divyashettyk@gmail.com
