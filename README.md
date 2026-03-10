@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divya-gh)
 
-- 🌱 I'm experienced in ... GenAI, AgenticAI, ML, Cloud Analystics, Bigquery, python, pandas, API's, Data Governance, DataLake architechture, Web Scraping with beautilfulSoup, Selenium Splinters, Data Analysis with PostgreSQL, SQLite, MongoDB, python SQLAlchemy, python Flask API, web development with HTML, CSS, BootStrap, JavaScript, Data Visualization with Looker Studio, Looker, Tableau, Jquery.js, D3.js, leaflet.js, and plotly.js.
+- 🌱 I'm experienced in ... GenAI, AgenticAI, ML, Cloud data Analytics with Bigquery, python, pandas, API's, Data Governance, DataLake architechture, Web Scraping with beautilfulSoup, Selenium Splinters, Data Analysis with PostgreSQL, SQLite, MongoDB, python SQLAlchemy, python Flask API, Web Development with HTML, CSS, BootStrap, JavaScript, Data Visualization with Looker Studio, Looker, Tableau, Jquery.js, D3.js, leaflet.js, and plotly.js.
 - 👯 I'm looking to collaborate on ... open source projects in python and Javascript.
 - 💬 Ask me about ... python, pandas, web development, and visualization with HTML, CSS, BootStrap, Javascript, D3.js.
 - 📫 How to reach me: ... divyashettyk@gmail.com
