@@ -1,6 +1,6 @@
 <h2> Hi there,👋 </h2>
 <h1 align='center'>I am Divya Shetty K👋</h1>
-<h3 align="center">"I'm a AI Enthusiast, GenAI, AgenticAI  Builder and Data Analyst/Visualizer, currently upskilling on Cloud GenAI Data Analytics and computer vision ML, LLM models and agent development kits.🔭"</h3>
+<h3 align="center">"I'm a AI Enthusiast, GenAI, AgenticAI  Builder and Data Analyst/Visualizer, currently upskilling on Cloud GenAI Data Analytics and computer vision ML, LLM models and agent development frameworks🔭"</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divya-gh)
 
