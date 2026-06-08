@@ -28,6 +28,7 @@ I'm experienced in GenAI, Agentic AI, Machine Learning, and modern agent framewo
 - Data Visualization: Looker Studio, Looker, Tableau, jQuery, D3.js, Leaflet.js, Plotly.js
 
 👯 Collaboration
+
 I'm looking to collaborate with startups, local businesses, and open‑source projects in:
 
 - AI & Agent Development
