@@ -1,14 +1,42 @@
 <h2> Hi there,👋 </h2>
 <h1 align='center'>I am Divya Shetty K👋</h1>
-<h3 align="center">"I'm an AI Enthusiast. I'm well versed with GenAI, AgenticAI , workflow automation , AI trasfomation. I'm an ReAct Agent developer as well as  Data Analyst & Visualizer. I'm  currently working as a **Freelancer** and **Independent Consultant** while upskilling on Agent frameowrks, RAG, Cloud GenAI Data Analytics and computer vision ML, LLM models, Data Governance and Ethics. 🔭"</h3>
+<h3 align="center">"I'm an AI Enthusiast with hands‑on experience in GenAI, Agentic AI, workflow automation, and AI transformation. I build ReAct Agents, design intelligent workflows, and work across Data Analytics & Data Visualization.
+
+I'm currently working as a Freelancer and Independent Consultant, while continuously upskilling in:
+- Agent frameworks (LangGraph, LangChain)
+- RAG systems
+- Cloud & GenAI services
+- Data Analytics
+- Computer Vision & ML
+- LLM model integration
+-Data Governance & AI Ethics
+🔭 Always exploring new ways to build practical, real‑world AI systems."</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divya-gh)
 
-- 🌱 I'm experienced in ... GenAI, AgenticAI, ML, lang Chain/LangGraph agent frameowrks, Cloud data Analytics with Bigquery, python, pandas, RestAPI's, Data Governance, DataLake architechture, Web Scraping with beautilfulSoup, Selenium Splinters, Data Analysis with PostgreSQL, SQLite, MongoDB, python SQLAlchemy, python Flask API, Web Development with HTML, CSS, BootStrap, JavaScript, Data Visualization with Looker Studio, Looker, Tableau, Jquery.js, D3.js, leaflet.js, and plotly.js.
-- 
-- 👯 I'm looking to collaborate with ... startups, local businesses, open source projects in AI, python and Javascript.
-- 💬 Ask me about ... Agent Development frameowrks, Long term memory, RAG, python, pandas, DB, web development, and visualization with HTML, CSS, BootStrap, Javascript, D3.js.
-- 📫 How to reach me: ... divyashettyk@gmail.com
+🌱 Experience
+I'm experienced in GenAI, Agentic AI, Machine Learning, and modern agent frameworks such as LangChain and LangGraph. My technical background spans:
+- Cloud Data Analytics with BigQuery
+- Python (pandas, SQLAlchemy), REST APIs
+- Data Governance & Data Lake Architecture
+- Web Scraping with BeautifulSoup, Selenium, Splinter
+- Databases: PostgreSQL, SQLite, MongoDB
+- Backend Development with Python Flask
+- Web Development: HTML, CSS, Bootstrap, JavaScript
+- Data Visualization: Looker Studio, Looker, Tableau, jQuery, D3.js, Leaflet.js, Plotly.js
+
+👯 Collaboration
+I'm looking to collaborate with startups, local businesses, and open‑source projects in:
+- AI & Agent Development
+- Python
+- JavaScript
+- Data Analytics & Visualization
+
+💬 Ask Me About
+Agent development frameworks, long‑term memory systems, RAG pipelines, Python, pandas, databases, web development, and data visualization with HTML/CSS/JS/D3.js.
+
+📫 How to Reach Me
+Email: divyashettyk@gmail.com
 
 ### My Featured Projects ✈️
 - [Langgraph-Research-Assistant-Agent](https://github.com/divya-gh/Research-Assistant-Agent.git)
