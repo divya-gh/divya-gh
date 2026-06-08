@@ -2,7 +2,7 @@
 <h1 align='center'>I am Divya Shetty K👋</h1>
 <h3 align="center">"I'm an AI Enthusiast with hands‑on experience in GenAI, Agentic AI, workflow automation, and AI transformation. I build ReAct Agents, design intelligent workflows, and work across Data Analytics & Data Visualization.
 
-<h3 align="left">I'm currently working as a Freelancer and Independent Consultant, while continuously upskilling in:
+<h4 align="left">I'm currently working as a Freelancer and Independent Consultant, while continuously upskilling in:
 - Agent frameworks (LangGraph, LangChain)
 - RAG systems
 - Cloud & GenAI services
@@ -10,12 +10,14 @@
 - Computer Vision & ML
 - LLM model integration
 -Data Governance & AI Ethics
-🔭 Always exploring new ways to build practical, real‑world AI systems."</h3>
+🔭 Always exploring new ways to build practical, real‑world AI systems."</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divya-gh)
 
 🌱 Experience
+
 I'm experienced in GenAI, Agentic AI, Machine Learning, and modern agent frameworks such as LangChain and LangGraph. My technical background spans:
+
 - Cloud Data Analytics with BigQuery
 - Python (pandas, SQLAlchemy), REST APIs
 - Data Governance & Data Lake Architecture
@@ -27,16 +29,17 @@ I'm experienced in GenAI, Agentic AI, Machine Learning, and modern agent framewo
 
 👯 Collaboration
 I'm looking to collaborate with startups, local businesses, and open‑source projects in:
+
 - AI & Agent Development
 - Python
 - JavaScript
 - Data Analytics & Visualization
 
 💬 Ask Me About
+
 Agent development frameworks, long‑term memory systems, RAG pipelines, Python, pandas, databases, web development, and data visualization with HTML/CSS/JS/D3.js.
 
-📫 How to Reach Me
-Email: divyashettyk@gmail.com
+📫 How to Reach Me: Email: divyashettyk@gmail.com
 
 ### My Featured Projects ✈️
 - [Langgraph-Research-Assistant-Agent](https://github.com/divya-gh/Research-Assistant-Agent.git)
