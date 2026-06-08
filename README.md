@@ -2,7 +2,7 @@
 <h1 align='center'>I am Divya Shetty K👋</h1>
 <h3 align="center">"I'm an AI Enthusiast with hands‑on experience in GenAI, Agentic AI, workflow automation, and AI transformation. I build ReAct Agents, design intelligent workflows, and work across Data Analytics & Data Visualization.
 
-I'm currently working as a Freelancer and Independent Consultant, while continuously upskilling in:
+<h3 align="left">I'm currently working as a Freelancer and Independent Consultant, while continuously upskilling in:
 - Agent frameworks (LangGraph, LangChain)
 - RAG systems
 - Cloud & GenAI services
