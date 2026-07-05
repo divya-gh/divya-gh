@@ -53,5 +53,5 @@ Agent development frameworks, long‑term memory systems, RAG pipelines, Python,
 - [Tableau-NewYork-Citi-Bike-Analysis-and-Visualization💹](https://github.com/divya-gh/Tableau-NewYork-Citi-Bike-Analysis-and-Visualization.git)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=divya-gh&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=divya-gh&theme=radical&v=3)
 
