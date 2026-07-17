@@ -15,16 +15,17 @@
 
 🌱 Experience
 
-I'm experienced in GenAI, Agentic AI, Machine Learning, and modern agent frameworks such as LangChain and LangGraph. My technical background spans:
+I'm experienced in Data/Conversational AI Analytics, GenAI, Agentic AI, Machine Learning, and modern agent frameworks such as LangChain and LangGraph. My technical background spans:
 
 - Cloud Data Analytics with BigQuery
+- Conversational AI/ NLP Analytics 
 - Python (pandas, SQLAlchemy), REST APIs
 - Data Governance & Data Lake Architecture
 - Web Scraping with BeautifulSoup, Selenium, Splinter
 - Databases: PostgreSQL, SQLite, MongoDB
 - Backend Development with Python Flask
 - Web Development: HTML, CSS, Bootstrap, JavaScript
-- Data Visualization: Looker Studio, Looker, Tableau, jQuery, D3.js, Leaflet.js, Plotly.js
+- Data Visualization: Looker Studio, Looker, Streamlit, Tableau, jQuery, D3.js, Leaflet.js, Plotly.js
 
 👯 Collaboration
 
@@ -43,8 +44,7 @@ Agent development frameworks, long‑term memory systems, RAG pipelines, Python,
 
 ### My Featured Projects ✈️
 - [Langgraph-Research-Assistant-Agent](https://github.com/divya-gh/Research-Assistant-Agent.git)
-- [Conversational AI Analytics - NLP:]
-- [1](https://github.com/divya-gh/conversational-ai-analyst.git)[, 2](https://github.com/divya-gh/ConvoSense-AI-Banking-Chatbot-Analytics.git)
+- Conversational AI Analytics - NLP: [1](https://github.com/divya-gh/conversational-ai-analyst.git)[ , 2](https://github.com/divya-gh/ConvoSense-AI-Banking-Chatbot-Analytics.git)
 - [genai-bigquery-lakehouse-assistant](https://github.com/divya-gh/genai-bigquery-lakehouse-assistant.git)
 - [Data Lakehouse Architecture](https://github.com/divya-gh/explore-bigquery-lakehouse.git)
 - [Face Mask Detection😷](https://github.com/divya-gh/Face_Mask_Detection.git)
