@@ -38,7 +38,7 @@ I'm looking to collaborate with startups, local businesses, and open‑source pr
 
 💬 Ask Me About
 
-Agent development frameworks, long‑term memory systems, RAG pipelines, Python, pandas, databases, web development, and data visualization with HTML/CSS/JS/D3.js.
+Agent development frameworks, long‑term memory systems, RAG pipelines, Python, pandas, databases, web development, and data visualization & Dashboard creation.
 
 📫 How to Reach Me: Email: divyashettyk@gmail.com
 
