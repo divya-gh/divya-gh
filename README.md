@@ -43,6 +43,7 @@ Agent development frameworks, long‑term memory systems, RAG pipelines, Python,
 📫 How to Reach Me: Email: divyashettyk@gmail.com
 
 ### My Featured Projects ✈️
+- [AI-Task-Manager-Agent- Gemini-Powered-Langgraph-ReAct](https://github.com/divya-gh/AI-Task-Manager-Agent-Gemini-Powered-Langgraph-ReAct-Agent.git)
 - [Langgraph-Research-Assistant-Agent](https://github.com/divya-gh/Research-Assistant-Agent.git)
 - Conversational AI Analytics - NLP: [Twitter_Dataset](https://github.com/divya-gh/conversational-ai-analyst.git)[ , Codelab Simulation](https://github.com/divya-gh/ConvoSense-AI-Banking-Chatbot-Analytics.git)
 - [genai-bigquery-lakehouse-assistant](https://github.com/divya-gh/genai-bigquery-lakehouse-assistant.git)
