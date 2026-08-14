@@ -44,6 +44,7 @@ Agent development frameworks, long‑term memory systems, RAG pipelines, Python,
 
 ### My Featured Projects ✈️
 - [AI-Task-Manager-Agent- Gemini-Powered-Langgraph-ReAct](https://github.com/divya-gh/AI-Task-Manager-Agent-Gemini-Powered-Langgraph-ReAct-Agent.git)
+- [CleanSlate-AI-Your-Digital-Estate-Manager](https://github.com/divya-gh/CleanSlate-AI-Your-Digital-Estate-Manager.git)
 - [Langgraph-Research-Assistant-Agent](https://github.com/divya-gh/Research-Assistant-Agent.git)
 - [Gemini-Powered-Birthday-Email-Agent](https://github.com/divya-gh/Gemini-Powered-Birthday-Email-Agent.git)
 - Conversational AI Analytics - NLP: [Twitter_Dataset](https://github.com/divya-gh/conversational-ai-analyst.git)[ , Codelab Simulation](https://github.com/divya-gh/ConvoSense-AI-Banking-Chatbot-Analytics.git)
@@ -56,5 +57,5 @@ Agent development frameworks, long‑term memory systems, RAG pipelines, Python,
 - [Tableau-NewYork-Citi-Bike-Analysis-and-Visualization💹](https://github.com/divya-gh/Tableau-NewYork-Citi-Bike-Analysis-and-Visualization.git)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=divya-gh&theme=radical&v=3)
+![GitHub Streak](https://streak-stats.demolab.com?user=divya-gh&theme=radical&v=2)
 
