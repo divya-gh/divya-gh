@@ -40,6 +40,8 @@ I'm looking to collaborate with startups, local businesses, and open‑source pr
 
 Agent development frameworks, long‑term memory systems, RAG pipelines, Python, pandas, databases, web development, and data visualization & Dashboard creation.
 
+🎓 Certifications & Badges: [DataAnlytics and AI](https://github.com/divya-gh/Certifications-Badges.git)
+
 📫 How to Reach Me: Email: divyashettyk@gmail.com
 
 ### My Featured Projects ✈️
